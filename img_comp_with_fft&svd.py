@@ -62,8 +62,4 @@ class ImageProcessor:
 
 processor = ImageProcessor(r'C:\Users\mouhd\OneDrive\Images\eiffel.jpg') # replace the path with your path
 processor.SVD()
-"""
-if you want to use the FFT method , you call the noise first then the FFT method
-processor.add_noise()
-processor.FFT() 
-"""
+#erase and add that
